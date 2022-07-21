@@ -1,5 +1,5 @@
 bazel-bin
-bazel-cel-lang-example
+bazel-cel-evaluator-poc
 bazel-out
 bazel-testlogs
 .vscode/
